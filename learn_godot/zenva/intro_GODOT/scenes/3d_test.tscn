@@ -1,0 +1,34 @@
+[gd_scene load_steps=3 format=3 uid="uid://csyy3rama36mw"]
+
+[sub_resource type="SphereMesh" id="SphereMesh_linea"]
+
+[sub_resource type="CylinderMesh" id="CylinderMesh_g22v7"]
+
+[node name="Node3D" type="Node3D"]
+
+[node name="snowman" type="Node3D" parent="."]
+transform = Transform3D(0.707107, 0, -0.707107, 0, 1, 0, 0.707107, 0, 0.707107, 0, 0, 0)
+
+[node name="base" type="MeshInstance3D" parent="snowman"]
+mesh = SubResource("SphereMesh_linea")
+skeleton = NodePath("../..")
+
+[node name="torso" type="MeshInstance3D" parent="snowman"]
+transform = Transform3D(0.746947, 0, 0, 0, 0.746947, 0, 0, 0, 0.746947, 0, 0.705297, 0)
+mesh = SubResource("SphereMesh_linea")
+skeleton = NodePath("../..")
+
+[node name="head" type="MeshInstance3D" parent="snowman"]
+transform = Transform3D(0.545297, 0, 0, 0, 0.545297, 0, 0, 0, 0.545297, 0, 1.18782, 0)
+mesh = SubResource("SphereMesh_linea")
+skeleton = NodePath("../..")
+
+[node name="left arm" type="MeshInstance3D" parent="snowman"]
+transform = Transform3D(-3.73441e-09, 0.0854334, 0.129877, -0.155457, -6.79525e-09, -2.30708e-16, 5.67711e-09, -0.129877, 0.0854334, 0.261901, 0.752524, -0.32722)
+mesh = SubResource("CylinderMesh_g22v7")
+skeleton = NodePath("../..")
+
+[node name="right arm" type="MeshInstance3D" parent="snowman"]
+transform = Transform3D(-3.73441e-09, 0.0854334, 0.129877, -0.155457, -6.79525e-09, -2.30708e-16, 5.67711e-09, -0.129877, 0.0854334, -0.225032, 0.708862, 0.282715)
+mesh = SubResource("CylinderMesh_g22v7")
+skeleton = NodePath("../..")
