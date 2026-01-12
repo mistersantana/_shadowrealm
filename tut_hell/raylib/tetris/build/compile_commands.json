@@ -1,0 +1,44 @@
+[
+{
+  "directory": "/Users/santana/Dev/project-shadaloo/learning-lab/tut_hell/tetris_raylib/build",
+  "command": "/usr/bin/c++  -isystem /opt/homebrew/include -O3 -DNDEBUG -arch arm64 -o CMakeFiles/Tetris.dir/src/main.cpp.o -c /Users/santana/Dev/project-shadaloo/learning-lab/tut_hell/tetris_raylib/src/main.cpp",
+  "file": "/Users/santana/Dev/project-shadaloo/learning-lab/tut_hell/tetris_raylib/src/main.cpp",
+  "output": "CMakeFiles/Tetris.dir/src/main.cpp.o"
+},
+{
+  "directory": "/Users/santana/Dev/project-shadaloo/learning-lab/tut_hell/tetris_raylib/build",
+  "command": "/usr/bin/c++  -isystem /opt/homebrew/include -O3 -DNDEBUG -arch arm64 -o CMakeFiles/Tetris.dir/src/assets.cpp.o -c /Users/santana/Dev/project-shadaloo/learning-lab/tut_hell/tetris_raylib/src/assets.cpp",
+  "file": "/Users/santana/Dev/project-shadaloo/learning-lab/tut_hell/tetris_raylib/src/assets.cpp",
+  "output": "CMakeFiles/Tetris.dir/src/assets.cpp.o"
+},
+{
+  "directory": "/Users/santana/Dev/project-shadaloo/learning-lab/tut_hell/tetris_raylib/build",
+  "command": "/usr/bin/c++  -isystem /opt/homebrew/include -O3 -DNDEBUG -arch arm64 -o CMakeFiles/Tetris.dir/src/block.cpp.o -c /Users/santana/Dev/project-shadaloo/learning-lab/tut_hell/tetris_raylib/src/block.cpp",
+  "file": "/Users/santana/Dev/project-shadaloo/learning-lab/tut_hell/tetris_raylib/src/block.cpp",
+  "output": "CMakeFiles/Tetris.dir/src/block.cpp.o"
+},
+{
+  "directory": "/Users/santana/Dev/project-shadaloo/learning-lab/tut_hell/tetris_raylib/build",
+  "command": "/usr/bin/c++  -isystem /opt/homebrew/include -O3 -DNDEBUG -arch arm64 -o CMakeFiles/Tetris.dir/src/colors.cpp.o -c /Users/santana/Dev/project-shadaloo/learning-lab/tut_hell/tetris_raylib/src/colors.cpp",
+  "file": "/Users/santana/Dev/project-shadaloo/learning-lab/tut_hell/tetris_raylib/src/colors.cpp",
+  "output": "CMakeFiles/Tetris.dir/src/colors.cpp.o"
+},
+{
+  "directory": "/Users/santana/Dev/project-shadaloo/learning-lab/tut_hell/tetris_raylib/build",
+  "command": "/usr/bin/c++  -isystem /opt/homebrew/include -O3 -DNDEBUG -arch arm64 -o CMakeFiles/Tetris.dir/src/game.cpp.o -c /Users/santana/Dev/project-shadaloo/learning-lab/tut_hell/tetris_raylib/src/game.cpp",
+  "file": "/Users/santana/Dev/project-shadaloo/learning-lab/tut_hell/tetris_raylib/src/game.cpp",
+  "output": "CMakeFiles/Tetris.dir/src/game.cpp.o"
+},
+{
+  "directory": "/Users/santana/Dev/project-shadaloo/learning-lab/tut_hell/tetris_raylib/build",
+  "command": "/usr/bin/c++  -isystem /opt/homebrew/include -O3 -DNDEBUG -arch arm64 -o CMakeFiles/Tetris.dir/src/grid.cpp.o -c /Users/santana/Dev/project-shadaloo/learning-lab/tut_hell/tetris_raylib/src/grid.cpp",
+  "file": "/Users/santana/Dev/project-shadaloo/learning-lab/tut_hell/tetris_raylib/src/grid.cpp",
+  "output": "CMakeFiles/Tetris.dir/src/grid.cpp.o"
+},
+{
+  "directory": "/Users/santana/Dev/project-shadaloo/learning-lab/tut_hell/tetris_raylib/build",
+  "command": "/usr/bin/c++  -isystem /opt/homebrew/include -O3 -DNDEBUG -arch arm64 -o CMakeFiles/Tetris.dir/src/position.cpp.o -c /Users/santana/Dev/project-shadaloo/learning-lab/tut_hell/tetris_raylib/src/position.cpp",
+  "file": "/Users/santana/Dev/project-shadaloo/learning-lab/tut_hell/tetris_raylib/src/position.cpp",
+  "output": "CMakeFiles/Tetris.dir/src/position.cpp.o"
+}
+]

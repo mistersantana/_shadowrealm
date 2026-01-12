@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/Users/santana/Dev/project-shadaloo/learning-lab/tut_hell/raylib/test/build",
+  "command": "/usr/bin/c++  -isystem /opt/homebrew/include  -arch arm64 -o CMakeFiles/Test.dir/raytest.cpp.o -c /Users/santana/Dev/project-shadaloo/learning-lab/tut_hell/raylib/test/raytest.cpp",
+  "file": "/Users/santana/Dev/project-shadaloo/learning-lab/tut_hell/raylib/test/raytest.cpp",
+  "output": "CMakeFiles/Test.dir/raytest.cpp.o"
+}
+]

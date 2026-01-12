@@ -1,0 +1,5 @@
+/Users/santana/Dev/project-shadaloo/learning-lab/tut_hell/tetris_raylib/build/CMakeFiles/Tetris.dir
+/Users/santana/Dev/project-shadaloo/learning-lab/tut_hell/tetris_raylib/build/CMakeFiles/package.dir
+/Users/santana/Dev/project-shadaloo/learning-lab/tut_hell/tetris_raylib/build/CMakeFiles/package_source.dir
+/Users/santana/Dev/project-shadaloo/learning-lab/tut_hell/tetris_raylib/build/CMakeFiles/edit_cache.dir
+/Users/santana/Dev/project-shadaloo/learning-lab/tut_hell/tetris_raylib/build/CMakeFiles/rebuild_cache.dir

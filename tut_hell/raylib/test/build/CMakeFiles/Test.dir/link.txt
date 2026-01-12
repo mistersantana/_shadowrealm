@@ -1,0 +1,1 @@
+/usr/bin/c++  -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/Test.dir/raytest.cpp.o -o Test  /opt/homebrew/lib/libraylib.dylib
