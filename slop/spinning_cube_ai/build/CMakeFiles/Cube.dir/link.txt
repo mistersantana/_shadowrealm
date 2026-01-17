@@ -1,0 +1,1 @@
+/usr/bin/c++  -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/Cube.dir/src/cube.cpp.o -o Cube  /opt/homebrew/lib/libraylib.dylib

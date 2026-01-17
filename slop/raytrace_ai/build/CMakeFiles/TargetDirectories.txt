@@ -1,0 +1,3 @@
+/Users/santana/Dev/project-shadaloo/learning-lab/tut_hell/raytrace_ai/build/CMakeFiles/RaytraceAI.dir
+/Users/santana/Dev/project-shadaloo/learning-lab/tut_hell/raytrace_ai/build/CMakeFiles/edit_cache.dir
+/Users/santana/Dev/project-shadaloo/learning-lab/tut_hell/raytrace_ai/build/CMakeFiles/rebuild_cache.dir
