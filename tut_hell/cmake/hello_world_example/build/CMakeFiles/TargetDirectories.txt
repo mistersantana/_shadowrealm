@@ -1,3 +1,0 @@
-/Users/santana/Dev/project-shadaloo/learning-lab/tut_hell/cmake_test/hello_world_example/build/CMakeFiles/Main.dir
-/Users/santana/Dev/project-shadaloo/learning-lab/tut_hell/cmake_test/hello_world_example/build/CMakeFiles/edit_cache.dir
-/Users/santana/Dev/project-shadaloo/learning-lab/tut_hell/cmake_test/hello_world_example/build/CMakeFiles/rebuild_cache.dir

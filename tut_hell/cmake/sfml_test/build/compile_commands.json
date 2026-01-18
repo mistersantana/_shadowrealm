@@ -1,8 +1,0 @@
-[
-{
-  "directory": "/Users/santana/Dev/project-shadaloo/learning-lab/tut_hell/cmake_test/sfml_test/build",
-  "command": "/usr/bin/c++  -isystem /opt/homebrew/include -std=gnu++17 -arch arm64 -o CMakeFiles/Main.dir/src/main.cpp.o -c /Users/santana/Dev/project-shadaloo/learning-lab/tut_hell/cmake_test/sfml_test/src/main.cpp",
-  "file": "/Users/santana/Dev/project-shadaloo/learning-lab/tut_hell/cmake_test/sfml_test/src/main.cpp",
-  "output": "CMakeFiles/Main.dir/src/main.cpp.o"
-}
-]
